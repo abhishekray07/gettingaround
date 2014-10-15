@@ -1,0 +1,3 @@
+individual sprite dimension:
+
+80x140 pixels
